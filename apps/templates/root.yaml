@@ -11,7 +11,7 @@ spec:
   project: default
   source:
     path: apps/
-    repoURL: git@github.com:kenricklesV/argocdTest.git
+    repoURL: https://github.com/kenricklesV/argocdTest.git
     targetRevision: HEAD
   syncPolicy:
     automated:
